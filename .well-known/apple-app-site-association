@@ -1,0 +1,18 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [ "34KU54J9K5.com.krezl.ganesha" ],
+        "components": [
+          {
+            "/": "/*",
+            "comment": "Matches the entire site for Universal Links."
+          }
+        ]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": [ "34KU54J9K5.com.krezl.ganesha" ]
+  }
+}
